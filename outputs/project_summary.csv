@@ -1,0 +1,8 @@
+Metric,Value
+Clean transactions,9994.0
+Unique products,1862.0
+Monthly periods,48.0
+High-risk products,228.0
+Medium-risk products,1451.0
+Low-risk products,183.0
+K-Means silhouette score,0.3887712698407265
